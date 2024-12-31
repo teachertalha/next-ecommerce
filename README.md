@@ -1,4 +1,4 @@
-# Next.js Ecommerce
+# Next.js Ecommercee
 
 This repo contains a work in progress Ecommerce responsive made with Next.js, Redux, Redux-persist, Hooks, SCSS and BEM. If you like it please give it a star :)
 
